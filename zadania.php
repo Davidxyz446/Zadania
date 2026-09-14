@@ -16,8 +16,7 @@
     echo "Zmienna podzielona przez 5 = " .$a/5;
     echo "Wartość reszty z dzielenia zmiennej przez 2 = " .$a%2;
     echo "Wartość zmiennej podniesioną do 3 potęgi = " .$a*$a*$a;
-    $a = X;
-    echo "Wartość zmiennej wynosi: " .X. " i już się nie zmieni.";
+    echo "Wartość zmiennej wynosi: " .$a. " i już się nie zmieni.";
 
     ?>
 </body>
